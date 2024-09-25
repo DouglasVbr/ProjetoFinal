@@ -279,6 +279,39 @@ Registre um compromisso na agenda e associe-o a um cliente.
 [linkedin](https://linkedin.com/in/douglas-vieira-685764212)
 [whats](https://wa.me/5551998509992)
 
+## mysql
+
+CREATE DATABASE sistema_gerenciamento;
+
+USE sistema_gerenciamento;
+
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100),
+    email VARCHAR(100),
+    nome_usuario VARCHAR(50) UNIQUE,
+    senha VARCHAR(100)
+);
+
+CREATE TABLE clientes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100),
+    endereco VARCHAR(200),
+    telefone VARCHAR(15),
+    email VARCHAR(100),
+    cpf_cnpj VARCHAR(20) UNIQUE
+);
+
+CREATE TABLE agenda (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    data DATE,
+    hora TIME,
+    descricao TEXT,
+    cliente_id INT,
+    FOREIGN KEY (cliente_id) REFERENCES clientes(id) ON DELETE CASCADE
+);
+
+
 
 
 
