@@ -275,15 +275,10 @@ Registre um compromisso na agenda e associe-o a um cliente.
 
 
 ## Contatos
-Links para contato profissional
+[Github](https://github.com/DouglasVbr)
+[linkedin](https://linkedin.com/in/douglas-vieira-685764212)
+[whats](https://wa.me/5551998509992)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglascanal1998@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasVbr)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-vieira-685764212)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551998509992)
 
 
 
