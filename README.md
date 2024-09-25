@@ -7,7 +7,23 @@
 
  [Douglas Vieira](https://github.com/DouglasVbr)
 
- # Indice
+ 
+
+ ## Índice
+- [Projeto Final](#1-Projeto-Final)
+- [Participantes](#2-Participantes)
+- [Índice](#3-índice)
+- [Descrição do Projeto](#4-Descrição-do-Projeto)
+- [Badges](#5-Badges)
+- [Tecnologias Utilizadas](#6-tecnologias-utilizadas)
+- [IDEs/Editores Utilizados](#7-ideseditores-utilizados)
+- [Instruções de Configuração e Execução](#8-instruções-de-configuração-e-execução)
+- [Funcionalidades Implementadas](#9-funcionalidades-implementadas)
+- [Como Contribuir para o Projeto](#10-como-contribuir-para-o-projeto)
+- [Tabelas](#11-tabelas)
+- [Tabela com a Tag HTML](#12-tabela-com-a-tag-html)
+- [Contatos](#13-contatos)
+
 
 
  ## Descrição do Projeto 
